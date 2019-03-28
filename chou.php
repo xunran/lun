@@ -22,4 +22,5 @@ function num($n){
 }
 
 echo num('asd');
+echo 'test';
 ?>
